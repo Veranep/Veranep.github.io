@@ -1,0 +1,14 @@
+---
+title: "[Re] Replication study of ‘Data-Driven Methods for Balancing
+Fairness and Efficiency in Ride-Pooling'"
+collection: publications
+permalink: /publication/2022-05-23-repl
+excerpt: 'Replication study evaluting claims related to fairness-based objective functions for ride-pooling matching systems.'
+date: 2022-05-23
+venue: 'ReScience C'
+paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+citation: "Neplenbroek, Vera, et al. (2022). &quot;[Re] Replication study of ‘Data-Driven Methods for Balancing Fairness and Efficiency in Ride-Pooling'.&quot; <i>ReScience C</i>. 1(1)."
+---
+Replication study evaluting claims related to fairness-based objective functions for ride-pooling matching systems.
+
+[Download paper here](http://veran.github.io/files/paper_repl.pdf)
