@@ -86,7 +86,7 @@ author:
   location         : "Amsterdam, the Netherlands"
   employer         :
   pubmed           :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    :
   email            : "v.e.neplenbroek@uva.nl"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "veran"
+  github           : "veranep"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/vera-neplenbroek-088751164/"
+  linkedin         : "vera-neplenbroek-088751164/"
   orcid            : "http://orcid.org/0000-0003-0158-6608"
   pinterest        :
   soundcloud       :
