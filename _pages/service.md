@@ -9,15 +9,15 @@ redirect_from:
 ## Reviewing
 
 * ARR
-  * 2024: December
   * 2025: February, May
+  * 2024: December
 * 6th Workshop on Gender Bias in Natural Language Processing (GEBNLP 2025)
 * CLIN 34 
 
 ## Volunteering
 
-* COLM 2024
 * ACL 2025
+* COLM 2024
 
 ## Organizing
 
