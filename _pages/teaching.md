@@ -4,9 +4,10 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Master Thesis Supervision
+## Supervision
 
 * Supervising master thesis on 'Investigating the Effects of Code-Switching on Toxicity and Biases Exhibited by Large Language Models'.
+* Supervising internship on 'Explainable Customer Call Classification with Text Bottleneck Models'.
 
 ## Natural Language Processing 1 (3x)
 
