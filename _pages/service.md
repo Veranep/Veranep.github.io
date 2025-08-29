@@ -9,9 +9,10 @@ redirect_from:
 ## Reviewing
 
 * ARR
-  * 2025: February, May
+  * 2025: February, May, July
   * 2024: December
 * 6th Workshop on Gender Bias in Natural Language Processing (GEBNLP 2025)
+* 8th Workshop on Analyzing and Interpreting Neural Networks for NLP (BlackboxNLP 2025)
 * CLIN 34 
 
 ## Volunteering
