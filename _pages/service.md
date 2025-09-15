@@ -22,4 +22,5 @@ redirect_from:
 
 ## Organizing
 
+* The next edition of the Gender Bias in NLP (GeBNLP) workshop (upcoming).
 * NLPitch: Series of talks about ongoing and published work by PhD students in NLP at the University of Amsterdam.
