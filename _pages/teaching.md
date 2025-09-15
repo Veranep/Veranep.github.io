@@ -30,6 +30,7 @@ author_profile: true
 
 * Teaching tutorial sessions, assisting students with their assignments, and answering their questions.
 
-## Language, Speech and Dialogue Processing
+## Guest Lectures
 
-* Giving guest lecture on 'Language Modeling and Social Safety'.
+* Giving guest lecture on 'Language Modeling and Social Safety' in course on 'Language, Speech and Dialogue Processing' at University of Amsterdam.
+* Giving guest lecture on 'Social (Un)Safety of LLMs' in course on 'Machine Learning' at Amsterdam University College.
