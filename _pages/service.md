@@ -9,9 +9,11 @@ redirect_from:
 ## Reviewing
 
 * ARR
+  * 2026: January 
   * 2025: February, May, July, October
   * 2024: December
 * ECIR 2026 - IR-for-Good track
+* EACL SRW 2026
 * 6th Workshop on Gender Bias in Natural Language Processing (GEBNLP 2025)
 * 8th Workshop on Analyzing and Interpreting Neural Networks for NLP (BlackboxNLP 2025)
 * CLIN 34 
