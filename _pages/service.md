@@ -10,7 +10,7 @@ redirect_from:
 
 * ARR
   * 2026: January 
-  * 2025: February, May, July, October
+  * 2025: February, May, July (Won an Outstanding Reviewer award!) , October
   * 2024: December
 * ECIR 2026 - IR-for-Good track
 * EACL SRW 2026
