@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2026-01-26-persona-cues
 excerpt: 'We compare using different cues to convey the same user persona and find that while cues are overall highly correlated, they produce substantial variance in responses across personas.'
 date: 2026-01-26
-venue: 'Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics'
+venue: 'ACL 2026 Main'
 paperurl: 'https://aclanthology.org/2026.acl-long.2079/'
 citation: "Franziska Weeber, Vera Neplenbroek, Jan Batzner, and Sebastian Padó. 2026. One Persona, Many Cues, Different Results: How Sociodemographic Cues Impact LLM Personalization. In Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 44892–44921, San Diego, California, United States. Association for Computational Linguistics."
 ---
