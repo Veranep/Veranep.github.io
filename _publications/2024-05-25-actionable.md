@@ -2,7 +2,7 @@
 title: "Actionable Interpretability for Churn Classification: A Text Bottleneck Model Case Study at a Major Telecom Provider"
 collection: publications
 category: conferences
-permalink: /publication/2026-07-03-actionable
+permalink: /publication/2024-05-25-actionable
 excerpt: "In this work, we explore the application of Text Bottleneck Models (TBMs) to customer service calls, showing that it is possible to combine accurate churn classification with actionable, human-interpretable explanations. Rather than relying solely on black-box predictions, our approach distills conversations into a sparse set of interpretable concepts and provides snippet-based evidence for each classification. In a case study at a large European telecommunications provider, we demonstrate that TBMs achieve competitive predictive performance while supporting practical business use cases such as automated call profiling and an interactive stakeholder dashboard."
 date: 2026-07-03
 venue: 'ACL 2026 Industry Track'
