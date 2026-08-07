@@ -9,7 +9,7 @@ author_profile: true
 * Supervising master thesis on 'Investigating the Effects of Code-Switching on Toxicity and Biases Exhibited by Large Language Models'.
 * Supervising internship on 'Explainable Customer Call Classification with Text Bottleneck Models'. This led to an ACL Industry track publication.
 
-## Natural Language Processing 1 (3x)
+## Natural Language Processing 1 (4x)
 
 * Giving lecture on 'Compositional semantics and sentence representations'.
 * Teaching tutorial sessions, assisting students with their assignments, and answering their questions.
