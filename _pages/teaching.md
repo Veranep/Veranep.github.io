@@ -7,7 +7,7 @@ author_profile: true
 ## Supervision
 
 * Supervising master thesis on 'Investigating the Effects of Code-Switching on Toxicity and Biases Exhibited by Large Language Models'.
-* Supervising internship on 'Explainable Customer Call Classification with Text Bottleneck Models'.
+* Supervising internship on 'Explainable Customer Call Classification with Text Bottleneck Models'. This led to an ACL Industry track publication.
 
 ## Natural Language Processing 1 (3x)
 
@@ -32,5 +32,6 @@ author_profile: true
 
 ## Guest Lectures
 
+* Given guest lecture on 'How LLMs Implicitly Infer User Sociodemographics' at Leiden University.
 * Giving guest lecture on 'Language Modeling and Social Safety' in course on 'Language, Speech and Dialogue Processing' at University of Amsterdam.
 * Giving guest lecture on 'Social (Un)Safety of LLMs' in course on 'Machine Learning' at Amsterdam University College.
