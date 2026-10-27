@@ -122,6 +122,8 @@ publication_category:
     title: 'Books' 
   conferences:
     title: 'Conference Papers'
+  workshops:
+    title: 'Workshop Papers'
   preprints:
     title: 'Pre-prints'
   manuscripts:
