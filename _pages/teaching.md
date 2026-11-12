@@ -32,6 +32,6 @@ author_profile: true
 
 ## Guest Lectures
 
-* Given guest lecture on 'How LLMs Implicitly Infer User Sociodemographics' at Leiden University.
+* Giving guest lecture on 'How LLMs Implicitly Infer User Sociodemographics' at Leiden University.
 * Giving guest lecture on 'Language Modeling and Social Safety' in course on 'Language, Speech and Dialogue Processing' at University of Amsterdam.
 * Giving guest lecture on 'Social (Un)Safety of LLMs' in course on 'Machine Learning' at Amsterdam University College.
